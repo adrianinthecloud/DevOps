@@ -1,0 +1,1 @@
+insert into users(id, name, phone) values (1, 'Adrian LIU 2020x', '04333333'), (2, 'Testerx', '123456');
